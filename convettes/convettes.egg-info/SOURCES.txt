@@ -1,0 +1,9 @@
+LICENSE.txt
+README.txt
+setup.py
+convettes/__init__.py
+convettes/convos.py
+convettes.egg-info/PKG-INFO
+convettes.egg-info/SOURCES.txt
+convettes.egg-info/dependency_links.txt
+convettes.egg-info/top_level.txt

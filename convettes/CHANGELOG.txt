@@ -1,0 +1,7 @@
+Change Log
+==========
+
+0.0.1 (03.08.2022)
+-------------------
+-First Release:
+    +Includes basic building blocks of convolutional neural networks. 
