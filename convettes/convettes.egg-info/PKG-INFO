@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: convettes
+Version: 0.0.3
+Summary: a library for building your own convolutional neural networks
+Home-page: UNKNOWN
+Author: sairbarbaros(Barbaros Şair)
+Author-email: sairbarbaros@gmail.com
+License: MIT
+Keywords: convolutional neural networks
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires: numpy
+Requires: tensorflow
+License-File: LICENSE.txt
+
+This is a convolutional neural network library for python.
+It is written by me, and only uses numpy library.
+You can try implementing forward propagation of convolutional neural networks with this library and gain a better insight into both forward and backpropagation of convolutional neural networks.
+Also you can implement famous architectures like AlexNet, VGG-16, and LeNet-5 to your own models and learn how they work.
+
+Change Log
+==========
+
+0.0.3 (02.08.2022)
+-------------------
+-Third Release:
+    +Includes famous Convolutional Neural Network architectures like AlexNet, VGG-16, and LeNet-5, resolved errors.
+
+

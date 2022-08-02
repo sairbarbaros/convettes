@@ -1,0 +1,7 @@
+Change Log
+==========
+
+0.0.3 (02.08.2022)
+-------------------
+-Third Release:
+    +Includes famous Convolutional Neural Network architectures like AlexNet, VGG-16, and LeNet-5, resolved errors.
